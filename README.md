@@ -1,4 +1,4 @@
-# Hi there, I’m [Shubham Kumar Bansal](@shubkb07) 👋
+# Hi there, I’m [Shubham Kumar Bansal](https://github.com/shubkb07) 👋
 
 ## 👀 About Me
 I’m passionate about developing websites, watching anime, K-dramas and C-dramas, and reading manhwa and manhua.
@@ -16,7 +16,7 @@ I’m passionate about developing websites, watching anime, K-dramas and C-drama
 - [Another Project](https://github.com/shubkb07/another-project): An innovative solution for ABC.
 
 ## Badge
-![GitHub followers](https://img.shields.io/github/followers/shubkb07?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/shubkb07?label=Follow&style=social)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubkb07&layout=compact)
 
 ## 📈 GitHub Stats
