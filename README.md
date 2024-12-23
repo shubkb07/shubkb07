@@ -19,7 +19,7 @@ I’m passionate about developing websites, watching anime, K-dramas and C-drama
 ![shubkb07's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubkb07&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
-- **Contributor** to [WordPress Core](https://github.com/WordPress/WordPress).
+- **Contributor** to [WordPress Core](https://github.com/WordPress/WordPress), [WordPress Profile](https://profiles.wordpress.org/shub07/).
 
 ## 📫 How to Reach Me
 Feel free to connect with me here on GitHub or drop me an email at [shub@shubkb.com](mailto:shub@shubkb.com).
