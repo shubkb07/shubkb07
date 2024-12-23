@@ -8,19 +8,19 @@ I’m passionate about developing websites, watching anime, K-dramas and C-drama
 
 ## 🛠️ Skills
 - **Languages**: JavaScript, TypeScript, Python
-- **Frameworks**: React, Next.js, Node.js
-- **Tools**: Git, Docker, AWS
+- **Frameworks & Libraries**: React, Next.js, Node.js
+- **Tools & Platforms**: Git, Docker, AWS
 
 ## 🚀 Projects
-- [Project Name](https://github.com/shubkb07/project-name): A web application that does XYZ.
-- [Another Project](https://github.com/shubkb07/another-project): An innovative solution for ABC.
-
-## Badge
-![GitHub followers](https://img.shields.io/github/followers/shubkb07?label=Follow&style=social)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubkb07&layout=compact)
+- [**Project Name**](https://github.com/shubkb07/project-name): A web application that [brief description of what it does].
+- [**Another Project**](https://github.com/shubkb07/another-project): An innovative solution for [brief description of what it does].
 
 ## 📈 GitHub Stats
 ![shubkb07's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubkb07&show_icons=true&theme=radical)
+
+## 🏆 Achievements
+- **Second Place** at the National Coding Competition 2023.
+- **Contributor** to [Open Source Project](https://github.com/opensource/project).
 
 ## 📫 How to Reach Me
 Feel free to connect with me here on GitHub or drop me an email at [shub@shubkb.com](mailto:shub@shubkb.com).
@@ -29,7 +29,12 @@ Feel free to connect with me here on GitHub or drop me an email at [shub@shubkb.
 He/Him
 
 ## ⚡ Fun Fact
-> An Apple a day, keep Gamers away.
+> I once participated in a national coding competition and won second place!
+
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/shubkb07/)
+- [Twitter](https://twitter.com/shubkb07)
+- [Portfolio](https://shubkb07.github.io/portfolio)
 
 <!---
 shubkb07/shubkb07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
