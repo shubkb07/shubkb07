@@ -19,8 +19,7 @@ I’m passionate about developing websites, watching anime, K-dramas and C-drama
 ![shubkb07's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubkb07&show_icons=true&theme=radical)
 
 ## 🏆 Achievements
-- **Second Place** at the National Coding Competition 2023.
-- **Contributor** to [Open Source Project](https://github.com/opensource/project).
+- **Contributor** to [WordPress Core](https://github.com/WordPress/WordPress).
 
 ## 📫 How to Reach Me
 Feel free to connect with me here on GitHub or drop me an email at [shub@shubkb.com](mailto:shub@shubkb.com).
